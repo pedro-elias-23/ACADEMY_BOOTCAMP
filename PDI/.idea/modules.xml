@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ACADEMY_BOOTCAMP.iml" filepath="$PROJECT_DIR$/.idea/ACADEMY_BOOTCAMP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PDI.iml" filepath="$PROJECT_DIR$/.idea/PDI.iml" />
     </modules>
   </component>
 </project>
